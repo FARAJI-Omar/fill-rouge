@@ -162,7 +162,7 @@
 /* install app section */
 .installapp {
     width: 100%;
-    background-color: #FFF8DC ;
+    background: linear-gradient(to top, #ffb30ef7 1%, #FFF8DC 25%, #FFF8DC 45%);
     padding: 4rem 0;
 }
 
